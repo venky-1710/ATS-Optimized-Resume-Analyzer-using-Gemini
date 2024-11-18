@@ -16,22 +16,24 @@ Skill Enhancement and Career Progression Guidance: Offers personalized recommend
 
 Deployment 
 
--Dependencies
+- Dependencies
 
-'''sh
+```sh
 pip install -r requirements.txt
-'''
+```
 
--Configure Environment Variables
+- Configure Environment Variables
 Create a .env file in the root directory and add the following environment variables:
+```sh
 EMAIL_ADDRESS=your-email@example.com
 EMAIL_PASSWORD=your-email-password
 GOOGLE_API_KEY=your-google-api-key
-
+```
 
 Run the Application
+```sh
 streamlit run app.py
-
+```
 
 Contact
 For any questions, issues, or feedback, please reach out:
