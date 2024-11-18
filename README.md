@@ -13,6 +13,10 @@ Skill Enhancement and Career Progression Guidance: Offers personalized recommend
 
 ![alt text](architceture.png)  
 
+- Clone the repository:
+    ```sh
+    https://github.com/venky-1710/ATS-Optimized-Resume-Analyzer-using-Gemini.git
+    ```
 
 Deployment 
 
