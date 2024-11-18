@@ -18,8 +18,9 @@ Deployment
 
 -Dependencies
 
+'''sh
 pip install -r requirements.txt
-
+'''
 
 -Configure Environment Variables
 Create a .env file in the root directory and add the following environment variables:
